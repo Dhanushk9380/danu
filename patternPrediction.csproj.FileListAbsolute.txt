@@ -1,0 +1,97 @@
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\patternPrediction\patternPrediction\bin\patternPrediction.dll
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\Sowjanya 1 Algorithm\patternPrediction\patternPrediction\bin\patternPrediction.dll
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\Sowjanya 1 Algorithm\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\Sowjanya 1 Algorithm\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\Sowjanya 1 Algorithm\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+C:\Users\USER\Desktop\SJCE MCA\Cattle Disease\Sowjanya 1 Algorithm\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+C:\Users\Madhu\Desktop\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\bin\patternPrediction.dll
+C:\Users\Madhu\Desktop\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+C:\Users\Madhu\Desktop\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Madhu\Desktop\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+C:\Users\Madhu\Desktop\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2020-2021\Projects\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2020-2021\Projects\SJCE MCA\Sowjanya Final Copy Apriori TID Eclat\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2020-2021\Projects\MITM\Cattle Disease\Priyanka Final Copy\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2020-2021\Projects\MITM\Cattle Disease\Priyanka Final Copy\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2020-2021\Projects\MITM\Cattle Disease\Priyanka Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2020-2021\Projects\MITM\Cattle Disease\Priyanka Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2020-2021\Projects\MITM\Cattle Disease\Priyanka Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\VVCE\Cattle Disease\Cattle Disease Final Copy\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Cattle Disease\Cattle Disease Final Copy\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Cattle Disease\Cattle Disease Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Cattle Disease\Cattle Disease Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Cattle Disease\Cattle Disease Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy NEW DS\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy NEW DS\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy NEW DS\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2021-2022\PROJECTS\PES\Cattle Disease\Karan Final Copy NEW DS\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\GSSS\Monika Cattle Disease FINAL\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\GSSS\Monika Cattle Disease FINAL\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\GSSS\Monika Cattle Disease FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\GSSS\Monika Cattle Disease FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Nayana Cattle Disease Project\Nayana Cattle Disease FINAL\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Nayana Cattle Disease Project\Nayana Cattle Disease FINAL\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Nayana Cattle Disease Project\Nayana Cattle Disease FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Nayana Cattle Disease Project\Nayana Cattle Disease FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Nayana Cattle Disease Project\Nayana Cattle Disease FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2022-2023\_PROJECTS\MCA\PES Harshitha\Harshitha Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\MCA\PES Harshitha\Harshitha Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\MCA\PES Harshitha\Harshitha Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2022-2023\_PROJECTS\MCA\PES Harshitha\Harshitha Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\MCA\PES Harshitha\Harshitha Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MCA\RI\Nischith Cattle Disease\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MCA\RI\Nischith Cattle Disease\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MCA\RI\Nischith Cattle Disease\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\MCA\RI\Nischith Cattle Disease\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MCA\RI\Nischith Cattle Disease\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT SFIT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT SFIT FINAL\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT SFIT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\Cattle Disease Project\Cattle Disease ECLAT SFIT FINAL\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\Geethanjali Cattle Disease\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\Geethanjali Cattle Disease\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\Geethanjali Cattle Disease\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\Geethanjali Cattle Disease\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease 26th june\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease 26th june\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease 26th june\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease 26th june\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2023-2024\PROJECTS\MTECH\SJCE\Geethanjali Cattle Disease 26th june\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project Updated\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project Updated\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project Updated\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cattle Disease Project Updated\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project UPDATED\patternPrediction\patternPrediction\bin\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project UPDATED\patternPrediction\patternPrediction\bin\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project UPDATED\patternPrediction\patternPrediction\obj\Debug\patternPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project UPDATED\patternPrediction\patternPrediction\obj\Debug\patternPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MITM\Cattle Disease Project UPDATED\patternPrediction\patternPrediction\obj\Debug\patternPrediction.csprojResolveAssemblyReference.cache
